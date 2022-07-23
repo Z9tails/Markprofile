@@ -1,16 +1,16 @@
 {
-  "files": {
-    "main.css": "/markprofile/static/css/main.073c9b0a.css",
-    "main.js": "/markprofile/static/js/main.53f2e0d9.js",
-    "static/js/787.9c63593e.chunk.js": "/markprofile/static/js/787.9c63593e.chunk.js",
-    "static/media/logo.svg": "/markprofile/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/markprofile/index.html",
-    "main.073c9b0a.css.map": "/markprofile/static/css/main.073c9b0a.css.map",
-    "main.53f2e0d9.js.map": "/markprofile/static/js/main.53f2e0d9.js.map",
-    "787.9c63593e.chunk.js.map": "/markprofile/static/js/787.9c63593e.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.53f2e0d9.js"
-  ]
+  "main.css": "/markprofile/static/css/main.853a0559.chunk.css",
+  "main.js": "/markprofile/static/js/main.62d3892a.chunk.js",
+  "main.js.map": "/markprofile/static/js/main.62d3892a.chunk.js.map",
+  "static/js/1.03ae7ea8.chunk.js": "/markprofile/static/js/1.03ae7ea8.chunk.js",
+  "static/js/1.03ae7ea8.chunk.js.map": "/markprofile/static/js/1.03ae7ea8.chunk.js.map",
+  "static/js/2.45d599a8.chunk.js": "/markprofile/static/js/2.45d599a8.chunk.js",
+  "static/js/2.45d599a8.chunk.js.map": "/markprofile/static/js/2.45d599a8.chunk.js.map",
+  "runtime~main.js": "/markprofile/static/js/runtime~main.b005b342.js",
+  "runtime~main.js.map": "/markprofile/static/js/runtime~main.b005b342.js.map",
+  "static/media/logo.svg": "/markprofile/static/media/logo.06e73328.svg",
+  "static/css/main.853a0559.chunk.css.map": "/markprofile/static/css/main.853a0559.chunk.css.map",
+  "index.html": "/markprofile/index.html",
+  "precache-manifest.52672f8bfbff3e8ef010033ec58ea51b.js": "/markprofile/precache-manifest.52672f8bfbff3e8ef010033ec58ea51b.js",
+  "service-worker.js": "/markprofile/service-worker.js"
 }
