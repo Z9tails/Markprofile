@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/markprofile/precache-manifest.52672f8bfbff3e8ef010033ec58ea51b.js"
+  "/Markprofile/precache-manifest.0ae4b8e8539eafca5c2f8a6d6ff21887.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/markprofile/index.html", {
+workbox.routing.registerNavigationRoute("/Markprofile/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
